@@ -10,6 +10,16 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Student__c.StudentDesc__c</members>
+        <members>Student__c.StudentEamil__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>ACL1</members>
+        <members>ACL2</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
         <members>Student__c</members>
         <name>CustomObject</name>
     </types>
