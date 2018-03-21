@@ -4,6 +4,8 @@
     <types>
         <members>c3__c</members>
         <members>c4__c</members>
+        <members>c5__c</members>
+        <members>c6__c</members>
         <name>CustomObject</name>
     </types>
     <types>
