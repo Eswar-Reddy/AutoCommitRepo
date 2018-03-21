@@ -2,8 +2,8 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>39.0</version>
     <types>
-        <members>c1__c</members>
-        <members>c2__c</members>
+        <members>c3__c</members>
+        <members>c4__c</members>
         <name>CustomObject</name>
     </types>
     <types>
